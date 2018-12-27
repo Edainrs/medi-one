@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "916483436389",
+    "firebase_url": "https://medipharmapp.firebaseio.com",
+    "project_id": "medipharmapp",
+    "storage_bucket": "medipharmapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916483436389:android:993e7fe650bc114d",
+        "android_client_info": {
+          "package_name": "com.redconoce.medipharm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916483436389-sh3p7r9hmmbnr0n394dvltjva2avsbgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-72uMNoFoRBnbtZ3luHDYA5xLkr1kxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
